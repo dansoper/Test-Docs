@@ -45,8 +45,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'safrs'
-copyright = u'2017, Thomas Pollet'
+project = u'Victoria Forms Creator for Word'
+copyright = u'2017, Victoria Forms'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
